@@ -1,0 +1,13 @@
+.submit-button {
+    -webkit-appearance: none;
+    border: 5px solid #2a353d;
+    background-color: #4d2a6b;
+    color:#eedad4;
+    outline: none;
+    padding: 10px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    font-size: 30px;
+  }
+  
+  

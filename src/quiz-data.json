@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "question": "Constructing pure funtions are the only allowed approach in functional implementaiton of components in React. (true or false) ",
+        "answer": "false"
+    },
+    {
+        "id": 2,
+        "question": "JSX is an HTML-like syntax extension for JavaScript written to be used with React. This is specifically how React adds XML syntax to JavaScript which is compiled to JavaScript at runtime. (true or false)",
+        "answer": "true"
+    },
+    {
+        "id": 3,
+        "question": "A JSX expression can have more than one outermost element. (true or false)",
+        "answer": "false"
+    },
+    {
+        "id": 4,
+        "question": "What are markers that signal the beginning and end of a JavaScript injection into JSX. (____ braces)",
+        "answer": "curly"
+    },
+    {
+        "id": 5, 
+        "question": "Since class is a reserved word in JavaScript, we have to use classTitle in JSX (true/false)",
+        "answer": "false"
+    },
+    {
+        "id": 6,
+        "question": "React applications are made out of ________ (hint: the answer starts with the letter c",
+        "answer": "component"
+    },
+    {
+        "id": 7,
+        "question": "To create your own component, you have to inherit from React.Component class (true/false)",
+        "answer": "true"
+    },
+    {
+        "id": 8,
+        "question": "Congratulation!!! Keep up the good work!",
+        "answer": "There is no right answer to this final question"
+    }
+]
